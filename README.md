@@ -1,1 +1,2 @@
-# witchPotion-localStorage-use-
+# witchPotion-localStorage-use
+Project of local storage use.
